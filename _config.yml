@@ -1,0 +1,6 @@
+remote_theme: pages-themes/dinky@v0.2.0
+
+title: Recipe Ratings on food.com
+
+plugins:
+- jekyll-remote-theme
